@@ -1,2 +1,0 @@
-# OS-code
-OS Lab
